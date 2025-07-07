@@ -1,0 +1,33 @@
+body {
+  background: #f9f6ff;
+  font-family: 'Jua', sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.game-title {
+  font-size: 2.5em;
+  color: #ff7f50;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  letter-spacing: 2px;
+  text-shadow: 2px 2px 0 #fff0f0;
+}
+
+#gameCanvas {
+  background: #fffbe7;
+  border: 8px solid #ffb6b9;
+  border-radius: 30px;
+  display: block;
+  margin: 0 auto;
+  box-shadow: 0 8px 24px #e0c3fc;
+}
+
+.game-desc {
+  font-size: 1em;
+  color: #888;
+  margin-bottom: 18px;
+  margin-top: 0;
+  line-height: 1.6;
+}
